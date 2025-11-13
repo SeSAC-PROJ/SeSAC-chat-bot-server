@@ -65,7 +65,7 @@ KSEB-chat-bot-server
 
 ---
 
-## 🤝 Team '도와조'
+## 🤝 Team 'AIFL'
 
 | Name | Role |
 |------|------|
@@ -84,5 +84,6 @@ KSEB-chat-bot-server
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f4ffad,100:d5ccff&height=120&section=footer)
 
 </div>
+
 
 
