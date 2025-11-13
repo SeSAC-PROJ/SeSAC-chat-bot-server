@@ -1,13 +1,13 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:f4ffad&height=240&text=KSEB-AI%202팀%20'도와조'의%20Chatbot%20Repository&animation=fadeIn&fontColor=6a5858&fontSize=35&fontAlignY=40&desc=경기대학교%20SW%20Bootcamp%204기%20AI%20도메인%20Team%202&descAlignY=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d5ccff,100:f4ffad&height=240&text=SeSAC-Hackathon%20팀%20'AIFL'의%20ChatBot%20Repository&animation=fadeIn&fontColor=6a5858&fontSize=35&fontAlignY=40&desc=%20SeSAC%20Hackathon%20Team%20&descAlignY=60)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Us
-> **안녕하세요!** 저희는 경기대학교 **SW Bootcamp 4기 AI 도메인 2팀 '도와조'** 입니다.  
+> **안녕하세요!** 저희는 **2025-SeSAC-Hackathon 팀 'AIFL(에이플)'** 입니다.  
 > **AI 기술**을 활용해 **실제 문제를 해결하는 실용적인 프로젝트**를 만들고자 합니다. 🚀
 
 ---
@@ -26,7 +26,7 @@
 
 ## 📂 About Our Project
 
-> KSEB-Chatbot Repository는 **KSEB 4기 2팀의 AI 챗봇 서버 코드**를 담고 있습니다.  
+> SeSAC-Chatbot Repository는 **AIFL(에이플)팀의 AI 챗봇 서버 코드**를 담고 있습니다.  
 > LangChain 기반의 AI 에이전트를 통해 사용자의 요청을 지능적으로 처리하고, 다양한 외부 도구와 연동하여 자동화된 작업을 수행합니다.
 
 📌 **주요 기능:**
@@ -73,7 +73,6 @@ KSEB-chat-bot-server
 | 🧑‍🎓 황태연 | Backend Dev & AI Dev |
 | 🧑‍🎓 이찬 | Backend Dev & AI Dev |
 | 🧑‍🎓 김세현 | Front Dev |
-| 🧑‍🎓 고윤서 | AI Dev |
 
 ---
 
@@ -85,4 +84,5 @@ KSEB-chat-bot-server
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f4ffad,100:d5ccff&height=120&section=footer)
 
 </div>
+
 
